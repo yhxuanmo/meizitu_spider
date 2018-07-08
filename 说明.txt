@@ -1,0 +1,2 @@
+本爬虫是爬取www.mzitu.com 的图片
+运用scrapy_redis简单做了分布式

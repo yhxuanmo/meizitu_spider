@@ -1,0 +1,5 @@
+scrapy
+scrapy_redis
+pywin32
+pymongo
+pillow
